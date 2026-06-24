@@ -1,10 +1,10 @@
-# 🏥 S2S Org
+# 🤟 S2S Org (Signary-AI)
 
 <div align="center">
 
-![S2S Org Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=S2S+Org&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
+![Signary-AI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Signary-AI&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
 
-### 💊 Building the Future of Healthcare Technology
+### 🌉 Bridging the Communication Gap with AI & 3D Avatars
 
 [![Organization Guide](https://img.shields.io/badge/📚_Organization-Guide-8b5cf6?style=for-the-badge)](https://github.com/S2S-org)
 [![Git Workflow](https://img.shields.io/badge/⚡_Git-Workflow-06b6d4?style=for-the-badge)](https://github.com/S2S-org)
@@ -17,95 +17,76 @@
 
 ## 🌟 About Us
 
-**S2S Org** is a technology organization dedicated to building innovative healthcare and software solutions. Our mission is to combine modern development practices with real-world experience to create software that improves workflows, collaboration, and user experiences.
+**S2S Org** (Signary-AI) is a technology organization dedicated to building advanced accessibility solutions for the deaf and hard-of-hearing community.
+
+Our core focus is breaking down communication barriers by translating speech and text into real-time sign language using AI, computer vision, and interactive 3D avatars.
 
 <div align="center">
 
 ### 🎯 Our Mission
 
-*"Empowering healthcare through technology, one line of code at a time"
+*"Empowering inclusive communication through AI-driven sign language translation, one gesture at a time."*
 
 </div>
 
 ## 🚀 What We Build
 
-<table>
-<tr>
-<td width="50%">
-
 ### 📱 Mobile Applications
-Building cross-platform healthcare apps with **Flutter** that provide seamless patient experiences and efficient medical workflows.
+Building high-performance, cross-platform applications with **Flutter** using Clean Architecture and **BLoC/Cubit** to deliver a seamless, accessible interface for live translation.
 
-</td>
-<td width="50%">
+### 🤖 AI & Machine Learning
+Developing intelligent computer vision models with **YOLOv8** and **TensorFlow** to accurately detect gestures and map speech/text into sign language.
 
-### 🌐 Web Platforms
-Creating responsive, modern web applications using **React** for healthcare management and patient portals.
+### 🧍 3D Avatar Rendering
+Integrating responsive **3D avatars** that render translated content as natural and readable sign language gestures in real-time.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ Backend Systems
-Developing robust, scalable APIs with **.NET** to power our healthcare solutions with enterprise-grade reliability.
-
-</td>
-<td width="50%">
-
-### 🗄️ Data Management
-Leveraging **PostgreSQL** for secure, HIPAA-compliant data storage and advanced healthcare analytics.
-
-</td>
-</tr>
-</table>
+### ⚙️ Scalable Infrastructure
+Engineering robust backend services and DevOps pipelines using **.NET, Laravel, Docker, and Nginx** to ensure our AI models run efficiently and scale reliably.
 
 ## 🛠️ Technical Arsenal
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>📱 Mobile Development</h3>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+      <h3>📱 Mobile</h3>
+      <img src="https://skillicons.dev/icons?i=flutter,dart" />
+      <p>Flutter, Dart, BLoC/Cubit, Clean Architecture</p>
     </td>
     <td align="center" width="33%">
-      <h3>🌐 Web Development</h3>
-      <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+      <h3>🤖 AI</h3>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,github" />
+      <p>YOLOv8, TensorFlow, Pose Estimation, Computer Vision</p>
     </td>
     <td align="center" width="33%">
-      <h3>⚙️ Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=dotnet,cs,postman" />
+      <h3>🧍 3D Avatars</h3>
+      <img src="https://skillicons.dev/icons?i=unity,blender" />
+      <p>3D gesture mapping, avatar animation, rendering engine</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h3>🗄️ Database</h3>
-      <img src="https://skillicons.dev/icons?i=postgresql" />
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=dotnet,php" />
+      <p>.NET, Laravel, REST API, WebSockets</p>
     </td>
     <td align="center">
-      <h3>🔧 DevOps & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,figma" />
+      <h3>🐳 DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=docker,nginx" />
+      <p>Docker, Nginx, Portainer, CI/CD pipelines</p>
     </td>
     <td align="center">
-      <h3>☁️ Cloud & Services</h3>
-      <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,azure,aws" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <h3>🤖 AI & Data Science</h3>
-      <img src="https://skillicons.dev/icons?i=python,fastapi" />
+      <h3>☁️ Infrastructure</h3>
+      <img src="https://skillicons.dev/icons?i=github,linux" />
+      <p>Container orchestration, deployment automation, monitoring</p>
     </td>
   </tr>
 </table>
 
 ## 👥 Our Team
 
-<div align="center">
+We are a dedicated team of software engineers, AI developers, and researchers working collaboratively under the academic supervision of **Dr. Samia Sorour**.
 
-We're proud to have a talented team of developers, designers, and healthcare professionals working together to build amazing solutions.
-
-</div>
+**Core Contributors:** Hedra Nabil, Taha Mohamed, Paula Younan.
 
 ### 📊 Team Statistics
 
@@ -115,91 +96,43 @@ We're proud to have a talented team of developers, designers, and healthcare pro
 <img src="https://img.shields.io/badge/Team_Members-13-success?style=for-the-badge&logo=github" alt="Team Members"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Team_Leaders-5-blue?style=for-the-badge&logo=github" alt="Team Leaders"/>
+<img src="https://img.shields.io/badge/AI_Research-Active-orange?style=for-the-badge" alt="AI Research"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Code_Quality-High-brightgreen?style=for-the-badge&logo=codacy" alt="Code Quality"/>
+<img src="https://img.shields.io/badge/Accessibility-Focused-brightgreen?style=for-the-badge" alt="Accessibility"/>
 </td>
 </tr>
 </table>
 
-## 📚 Resources & Documentation
-
-<div align="center">
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| 📖 **Organization Guide** | Complete guide to our workflows and practices | [Visit Guide](https://github.com/S2S-org) |
-| ⚡ **Git Workflow** | Professional Git practices and conventions | [Git Guide](https://github.com/S2S-org) |
-| 🎯 **Best Practices** | Coding standards and development guidelines | [View Docs](https://github.com/S2S-org) |
-| 🔧 **Setup Guide** | Quick start for new team members | [Get Started](https://github.com/S2S-org) |
-
-</div>
-
-## 🎓 For New Members
-
-<details>
-<summary><b>🚀 Quick Start Guide</b></summary>
-
-### Welcome to S2S Org! 👋
-
-Follow these steps to get started:
-
-1. **📖 Read the Organization Guide**
-   - Visit our organization page
-   - Understand our mission and values
-
-2. **⚡ Learn Our Git Workflow**
-   - Review our branch and commit conventions
-   - Understand how to contribute safely
-
-3. **🛠️ Set Up Your Environment**
-   - Install the required tools
-   - Clone the repositories you need
-   - Configure your development environment
-
-4. **👥 Meet the Team**
-   - Join our communication channels
-   - Introduce yourself
-   - Get assigned your first task
-
-5. **💻 Start Contributing**
-   - Pick up a beginner-friendly issue
-   - Follow our coding standards
-   - Submit your first pull request
-
-</details>
-
 ## 🔄 Development Workflow
 
-We follow industry-standard practices to ensure code quality and team collaboration:
+We strictly adhere to clean coding standards and an organized deployment pipeline to ensure our AI models and mobile applications sync perfectly:
 
 ```mermaid
 graph TD
-    A[Feature Request] --> B[Create Branch]
-    B --> C[Develop]
+    A[Feature Request / AI Model Tuning] --> B[Create Branch]
+    B --> C[Develop & Test Locally]
     C --> D[Commit]
     D --> E[Push]
     E --> F[Pull Request]
-    F --> G[Code Review]
+    F --> G[Code Review & Peer Sync]
     G --> H{Approved?}
     H -->|Yes| I[Merge to Develop]
     H -->|No| C
-    I --> J[Deploy to Staging]
-    J --> K[Testing]
+    I --> J[Containerized Deployment via Portainer]
+    J --> K[Integration Testing]
     K --> L{Tests Pass?}
     L -->|Yes| M[Merge to Main]
     L -->|No| C
-    M --> N[Deploy to Production]
 ```
 
 ### 📋 Our Process
 
 - ✅ **Feature Branches** - Every feature gets its own branch
-- ✅ **Code Reviews** - All code must be reviewed before merging
-- ✅ **Automated Testing** - CI/CD pipelines ensure quality
-- ✅ **Conventional Commits** - Clear, standardized commit messages
-- ✅ **Documentation** - Every feature is properly documented
+- ✅ **Code Reviews** - Peer review is mandatory before merge
+- ✅ **Automated Testing** - CI/CD validates model and UI changes
+- ✅ **Modular Architecture** - Clear separation between mobile, AI, and backend
+- ✅ **Documentation** - Every model and interface is documented
 
 ## 🏆 Achievements & Milestones
 
@@ -207,57 +140,39 @@ graph TD
 
 | Milestone | Status |
 |-----------|--------|
-| 🎯 Organization Setup | ✅ Complete |
-| 📚 Documentation Portal | ✅ Complete |
-| 🔧 Development Guidelines | ✅ Complete |
-| 🚀 First Production Release | 🔄 In Progress |
-| 🌟 100+ Commits | 🎯 Goal |
-| 👥 10+ Contributors | ✅ Achieved |
+| 🎯 Project Architecture & Planning | ✅ Complete |
+| 🤖 AI Pose Detection Training | 🔄 In Progress |
+| 🧍 3D Avatar Mapping Integration | 🔄 In Progress |
+| 📱 Flutter App Core Interface | ✅ Complete |
+| ⚙️ Docker Cluster Setup | ✅ Complete |
 
 </div>
 
-## 💡 Contributing
-
-We welcome contributions from all team members! Here's how you can contribute:
-
-1. **🐛 Report Bugs** - Found a bug? Open an issue
-2. **💡 Suggest Features** - Have an idea? We'd love to hear it
-3. **📝 Improve Documentation** - Help make our docs better
-4. **💻 Submit Code** - Follow our Git workflow and submit PRs
-5. **👀 Review Code** - Help review pull requests
-
-### 📜 Contribution Guidelines
-
-- Follow our Git workflow and branch strategy
-- Use conventional commit messages
-- Write clear, descriptive PR descriptions
-- Ensure all tests pass before submitting
-- Update documentation as needed
-
-## 📞 Get in Touch
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-Have questions? Want to collaborate? Reach out to us!
-
-[![GitHub](https://img.shields.io/badge/GitHub-S2S_Org-181717?style=for-the-badge&logo=github)](https://github.com/S2S-org)
-
-</div>
-
-## 🌟 Featured Projects
+## 🌟 Featured Projects (Repositories)
 
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 📱 **Patient App** | Mobile app for patient management | Flutter, Dart | 🔄 Active |
-| 👨‍⚕️ **Doctor App** | Mobile app for doctors | Flutter, Dart | 🔄 Active |
-| 🌐 **Admin Portal** | Web-based admin dashboard | React | 🔄 Active |
-| 💻 **Website** | Official organization website | React | 🔄 Active |
-| ⚕️ **S2S API** | Core Backend API | .NET, C# | 🔄 Active |
-| 🤖 **Medical Agent** | AI-powered medical assistant | Python, FastAPI, LLM | 🔄 Active |
+| 📱 **S2S Mobile App** | Primary user interface for translation | Flutter, Dart, BLoC | 🔄 Active |
+| 🤖 **Signary AI Engine** | Computer vision & translation models | Python, YOLOv8, TensorFlow | 🔄 Active |
+| 🧍 **Avatar Renderer** | 3D gesture rendering and mapping | Unity / Custom 3D | 🔄 Active |
+| ⚙️ **Core API** | Backend systems handling real-time data | .NET, Laravel | 🔄 Active |
+| 🐳 **Infra Scripts** | Docker & Nginx proxy configurations | Docker, Shell | 🔄 Active |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Built for Accessibility by the S2S Org Team
+
+**⭐ Star our repositories | 🔔 Watch for updates | 🤝 Join our community**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+
+</div>
 | 🎧 **Support Agent** | AI Customer Support Agent | Python, AI | 🔄 Active |
 | 🗄️ **Database** | Centralized Data Storage | PostgreSQL | 🔄 Active |
 
